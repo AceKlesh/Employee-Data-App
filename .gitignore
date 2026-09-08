@@ -1,0 +1,16 @@
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+Backend/.env
+Backend/.env.*
+
+# Uploaded user files
+Backend/uploads/
+
+# Build output
+dist/
+dist-ssr/
+build/

@@ -22,3 +22,4 @@ console.log('\nEmployee found by ID 2:');
 console.log(employee);
 
 console.log(`\nTotal payroll: $${calculateTotalPayroll()}`);
+print()
